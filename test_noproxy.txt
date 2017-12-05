@@ -1,0 +1,4 @@
+Acquire::http::proxy "false";
+Acquire::https::proxy "false";
+Acquire::ftp::proxy "false";
+Acquire::socks::proxy "false";

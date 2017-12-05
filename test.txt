@@ -1,0 +1,5 @@
+Acquire::http::proxy "http://172.16.19.10:80/";
+Acquire::https::proxy "https://172.16.19.10:80/";
+Acquire::ftp::proxy "ftp://172.16.19.10:80/";
+Acquire::socks::proxy "socks://172.16.19.10:80/";
+
